@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPhBglh07T34d07oBDT+E65",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Boonsita30/30-Coding68/blob/main/mid-30-BAIBUA.py.\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "OAldUv-X3Oyg"
+      },
+      "outputs": [],
+      "source": [
+        "#สอบกลางภาคเทอม 2\n",
+        "name=input(\"ยินดีต้อนรับค่า! ผู้ใชชื่ออะไรค่ะ\")\n",
+        "print(\"ยินดีต้อนรับเข้าสู่โปรแกรมคำนวณค่ากรด/เบส\\n\")\n",
+        "\n",
+        "acid = int(input(\"acid 0-14 <7:\"))\n",
+        "mediem = int(input(\"mediem =7\"))\n",
+        "bass = int(input(\"bass >7\"))\n",
+        "\n",
+        "print(\"\\nสรุปผลกรด/เบส:\")\n",
+        "\n",
+        "if acid < 7:\n",
+        "  print(\"กรด\")\n",
+        "elif mediem < 7:\n",
+        "  print(\"เป็นกลาง\")\n",
+        "elif aver >=7:\n",
+        "  print(\"เบส\")\n",
+        "else:\n",
+        "  print(\"การคำนวณของคุณสำเร็จแล้ว\")"
+      ]
+    }
+  ]
+}
