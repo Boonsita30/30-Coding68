@@ -13,3 +13,16 @@ program name :โปรแกรมการคำนวณเวลาการ
 >Language Python
 >Ipython.display(จัดการการแสดงผล)
 >Platfrom: Google colab
+
+4.ตัวอย่างภาพการใช้งาน (Screen Shot)
+<img width="390" height="255" alt="โปรแกรมคำนวณเวลาอ่านหนังสือ" src="https://github.com/user-attachments/assets/2f2ca668-e285-4952-bac2-e36d9b757109" />
+
+5.วิธีการใช้งาน (How to run)
+>เปิดโปรแกรม: รับโค้ดผ่าน Google colab หรือสภาพแวดล้อมที่รองรับ Python
+
+6.ผู้พัฒนา (Developer)
+ชื่อ-นามสกุล: นางสาวบุญสิตา ธรรมเกษร
+>ชั้น: มัธยมศึกษาปีที่ 4 ห้อง 4 เลขที่ 30
+>โรงเรียน:บางบ่อวิทยาคม
+>อาจารย์ที่ปรึกษา: คุณครูนฤมล สุนทอง(ครูเฟิร์น)
+โปรเจกต์รายวิชาการเขียนโปรแกรม 2 (ว31296)รูปแบบ Deep - Personalized Learnning
